@@ -1,0 +1,37 @@
+{
+  "checked_at":"2026-09-13",
+  "status":"partial_cached_sources",
+  "note":"Live origin returns 403. Indexed documents are 9–14 months old. This is not a complete or current catalogue export.",
+  "products":[
+    {"id":"original-23","name":"아르띠스떼 에너지크림 x A&B","price":76000,"url":"https://www.crowny.kr/crowny/?idx=23","status":"detail_blocked"},
+    {"id":"original-21","name":"[한나아트]크라우니동그람씨하이-작가시리얼엽서","price":2500,"url":"https://www.crowny.kr/crowny/?idx=21","status":"detail_blocked"},
+    {"id":"original-20","name":"[크라우니]아르띠스떼에너지크림","price":76000,"url":"https://www.crowny.kr/crowny/?idx=20","status":"detail_blocked"},
+    {"id":"original-16","name":"[크라우니]에스케이선크림","price":77000,"url":"https://www.crowny.kr/crowny/?idx=16","status":"detail_blocked"},
+    {"id":"original-19","name":"[크라우니]스타트 프로모션 15300","price":153000,"url":"https://www.crowny.kr/crowny/?idx=19","image":"assets/original/promotion-19.jpg","status":"historical_2025","description":"2025년 스타트 프로모션 안내입니다. 원본은 주소 입력용 상품으로 소개하며, 소개자 이름 또는 닉네임을 옵션으로 받았습니다. 현재 판매 여부는 원본에서 확인해주세요."},
+    {"id":"original-17","name":"[크라우니]프리오더 프로모션153(지정구매)","price":153000,"url":"https://www.crowny.kr/crowny/?idx=17","image":"assets/original/promotion-17.jpg","status":"ended","description":"원본에 2025년 6월 9일 종료 및 품절로 안내된 프로모션입니다. 사전 안내받은 분을 대상으로 진행했던 상품입니다."},
+    {"id":"original-mask","name":"[크라우니]멜로우마스크팩","price":25500,"url":"https://www.crowny.kr/","status":"search_excerpt_only"},
+    {"id":"original-perfume","name":"[프리오더][크라우니]Ver.C퍼퓸","price":230000,"url":"https://www.crowny.kr/","status":"search_excerpt_only"},
+    {"id":"original-g2cream","name":"지투셀 올인원 레이어링 크림 50ml","price":37800,"url":"https://www.crowny.kr/g2cell/?idx=7","image":"assets/original/g2cream-1.png","cards":["assets/original/g2cream-1.png","assets/original/g2cream-2.png","assets/original/g2cream-3.png","assets/original/g2cream-4.png"],"status":"cached_soldout","description":"원본에서는 산뜻한 수분 크림으로 소개하며, 확인된 과거 페이지에는 품절로 표시되어 있습니다."},
+    {"id":"original-g2mist","name":"지투셀 얼티메이트 리바이벌 드로 미스트 150ml","price":35100,"url":"https://www.crowny.kr/g2cell/?idx=6","image":"assets/original/g2mist-1.png","cards":["assets/original/g2mist-1.png","assets/original/g2mist-2.png","assets/original/g2mist-3.png","assets/original/g2mist-4.png","assets/original/g2mist-5.png"],"status":"cached_detail","description":"원본에서 크림 광채 미스트로 소개한 150ml 제품입니다. 현재 판매 조건은 원본에서 확인해주세요."},
+    {"id":"original-g2bag","name":"지투셀 화장품 쇼핑백","price":1500,"url":"https://www.crowny.kr/g2cell","status":"catalogue_only"},
+    {"id":"original-avl","name":"[AVLs]인터랙트마이크 DM-50S","price":null,"url":"https://www.crowny.kr/avl","status":"search_excerpt_only"}
+  ],
+  "reviews":[
+    {"id":"167611812","title":"최고의 썬크림","url":"https://www.crowny.kr/notice/?bmode=view&idx=167611812","excerpt":"발림성이 좋아서 썬크림 발랐을때 특유의 끈적거림없고 피부에 깔끔하게 흡수되는 느낌이 너무 좋아요.","status":"excerpt_only","source":"https://www.crowny.kr/crowny"},
+    {"id":"167310884","title":"Energy Cream","url":"https://www.crowny.kr/notice/?bmode=view&idx=167310884","excerpt":"2025.08.12. BE01 CROWNY ARTISTE ENERGYCREAM Dancing Emotional Cream","status":"excerpt_only","source":"https://www.crowny.kr/crowny"},
+    {"id":"167310747","title":"from Mr.Bin","url":"https://www.crowny.kr/notice/?bmode=view&idx=167310747","excerpt":"","status":"title_only","source":"https://www.crowny.kr/crowny"}
+  ],
+  "categories":[
+    ["CROWNY","https://www.crowny.kr/crowny"],
+    ["CROWNY.For Dr.","https://www.crowny.kr/fordr"],
+    ["CROWNY.MedicalDevice","https://www.crowny.kr/medicaldevice"],
+    ["CROWNY.ARTISTE","https://www.crowny.kr/artiste"],
+    ["CROWNY.STYLE","https://www.crowny.kr/style"],
+    ["CROWNY.Eco-friendly","https://www.crowny.kr/ef"],
+    ["G2CELL","https://www.crowny.kr/g2cell"],
+    ["NEORA","https://www.crowny.kr/neora"],
+    ["AVL / 미디어","https://www.crowny.kr/avl"]
+  ],
+  "unresolved_categories":["NECLEAR","TIRATO","FEMTECH SOLUTION"],
+  "funding":{"status":"original_form_not_retrieved","applicants_imported":false}
+}
