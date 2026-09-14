@@ -1,0 +1,506 @@
+[
+  {
+    "file": "assets/images/banner-01.jpg",
+    "width": 2000,
+    "height": 500,
+    "bytes": 184922,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/banner-02.jpg",
+    "width": 2000,
+    "height": 500,
+    "bytes": 137866,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-01.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 330043,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-02.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 316325,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-03.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 354448,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-04.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 355554,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-05.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 369137,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-06.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 308071,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-07.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 327563,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-08.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 319365,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-09.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 372331,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-10.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 313368,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-11.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 255701,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-12.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 312325,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-13.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 305743,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-14.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 460144,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-15.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 338127,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/detail-16.jpg",
+    "width": 800,
+    "height": 3000,
+    "bytes": 411588,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/hero-01.jpg",
+    "width": 2000,
+    "height": 900,
+    "bytes": 392056,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/hero-02.jpg",
+    "width": 2000,
+    "height": 900,
+    "bytes": 342817,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/hero-03.jpg",
+    "width": 2000,
+    "height": 900,
+    "bytes": 483726,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/mission.jpg",
+    "width": 1600,
+    "height": 1000,
+    "bytes": 540332,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/popup-01.jpg",
+    "width": 400,
+    "height": 300,
+    "bytes": 33006,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/popup-02.jpg",
+    "width": 400,
+    "height": 300,
+    "bytes": 29330,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-01.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 51948,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-02.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 50160,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-03.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 58661,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-04.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 64850,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-05.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 49975,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-06.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 42375,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-07.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 41448,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-08.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 55967,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-09.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 44672,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-10.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 45079,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-11.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 40421,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-12.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 52678,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-13.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 48954,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-14.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 79912,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-15.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 63684,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-16.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 72189,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-01.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 159376,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-02.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 152468,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-03.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 190652,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-04.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 229811,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-05.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 147164,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-06.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 119973,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-07.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 122085,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-08.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 180715,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-09.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 127862,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-10.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 132276,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-11.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 119307,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-12.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 143857,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-13.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 143555,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-14.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 239544,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-15.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 175766,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/product-large-16.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 245259,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-01.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 209027,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-02.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 271272,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-03.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 268416,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-04.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 325053,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-05.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 228754,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-06.jpg",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 198084,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-07.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 41448,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-08.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 55967,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-09.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 44672,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-10.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 45079,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-11.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 40421,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-12.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 52678,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-13.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 48954,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-14.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 79912,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-15.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 63684,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  },
+  {
+    "file": "assets/images/scene-16.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 72189,
+    "source": "AI-generated concept imagery; scene 07–16 reuse product photographs for detail crops"
+  }
+]
